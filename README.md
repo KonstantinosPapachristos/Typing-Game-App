@@ -60,4 +60,8 @@ Copy code
 
 ---
 
-## 
+## 📄 License
+
+The project is available for free use and modification for educational purposes.
+
+Thank you for your interest in this project! 🚀
