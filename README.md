@@ -56,3 +56,8 @@ Test your reflexes and typing accuracy — type each word correctly before time 
 com.example.typinggame.TypingGame
 Copy code
 3. Run the application — the game window will open.
+
+
+---
+
+## 
