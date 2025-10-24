@@ -31,7 +31,7 @@ Test your reflexes and typing accuracy — type each word correctly before time 
 
 
 ## 🧩 Technologies Used
-- **Java 17+**
+- **Java 21**
 - **JavaFX 21**
 - **FXML** for UI layout
 - **Scene Builder**  for editing the FXML files
